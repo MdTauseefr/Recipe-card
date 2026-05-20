@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: #f3e5d8;
+    display: flex;
+    justify-content: center;
+    padding: 40px 15px;
+}
+.card{
+    background-color: #ffffff;
+    max-width: 650px;
+    border-radius: 20px;
+    padding: 30px;
+}
+.card img{
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+h1 {
+    font-size: 32px;
+    margin-bottom: 15px;
+    color: #333
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+.prep-time{
+    background-color: #fff5fa;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+}
+.prep-time h3{
+    color: #7b284f;
+    margin-bottom: 10px;
+}
+.prep-time ul{
+    padding-left: 20px;
+}
+.prep-time li{
+    margin-bottom: 8px;
+    color: #555;
+}
+h2{
+    color: #854632;
+    margin: 25px 0 15px;
+}
+ul, ol{
+    padding-left: 20px;
+    color: #555;
+}
+ul li,ol li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 25px 0;
+}
+.nutrition p{
+    margin-bottom: 15px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table tr{
+    border-bottom: 1px solid #ddd;
+}
+table td{
+    padding: 12px 5px;
+    color: #555;
+}
+table td:last-child{
+    font-weight: bold;
+    color: #854632;
+}
+@media (max-width:600px) {
+    h1 {
+        font-size: 26px;
+    }
+}
