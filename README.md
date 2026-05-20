@@ -23,8 +23,8 @@ JavaScript
 Resume Project Point
 
 Developed a responsive Omelette Recipe webpage using HTML, CSS, and JavaScript with a clean UI, structured layout, and mobile-friendly design principles.
+
 <img width="807" height="877" alt="r1" src="https://github.com/user-attachments/assets/3b5adee7-2a6a-4135-b1fe-7ae86cd8fff2" />
-<R>
 <img width="801" height="860" alt="r2" src="https://github.com/user-attachments/assets/f9f59224-2c3f-42d1-9d2b-45950ac8d577" />
 
 
